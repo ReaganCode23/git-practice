@@ -13,3 +13,5 @@ git add .           #all the changed files
 # make the committ
 git commit -m "a message"
 
+# push new local commits to the remote repo
+git push origin main
